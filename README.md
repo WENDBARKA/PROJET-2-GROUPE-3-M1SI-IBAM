@@ -134,3 +134,5 @@ je conseille de prendre connaissance du rapport fournis dans le github il y a de
 -Visualisation en temps réel avec Grafana.
 
 -Tests fonctionnels avec SoapUI.
+
+NB: je vous conseille de vraiment regarder le rapport pour verification des tests effectuées, Merci!!!!!!!!
