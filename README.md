@@ -1,15 +1,6 @@
 
-# Projet SOAP – Groupe 3 MISI IBAM
+# Projet SOAP
 
-## 👥 Membres du groupe
-
-- Kabore Wend-Barka Boukary  
-- Meda W R Flora  
-- Sawadogo Amal Fatima  
-- Oueyiga Bernadin Wèpya  
-- Enonciné Bernadin Wèpya  
-
-Enseignant : **M. Fadel KY**
 
 ## 🎯 Objectif
 
@@ -28,7 +19,7 @@ Avant de lancer le projet, assurez-vous d’avoir installé :
 
 ## 📂 Structure du projet
 
-PROJET-2-GROUPE-3-M1SI-IBAM/ │ ├── src/ # Code Java SOAP (Apache CXF) ├── configs/ # Configurations │ ├── nifi-template.xml │ ├── prometheus.yml │ ├── grafana.ini │ └── SOAP_monitoring_dashbord_grafana.json ├── tests/ # Tests SoapUI │ └── TestSOAPClient-soapui-project.xml ├── docs/ # Documentation │ ├── rapport.pdf │ └── procedure.docx ├── clientdb.sql # Base PostgreSQL ├── pom.xml # Projet Maven └── README.md # Ce fichier
+PROJET/ │ ├── src/ # Code Java SOAP (Apache CXF) ├── configs/ # Configurations │ ├── nifi-template.xml │ ├── prometheus.yml │ ├── grafana.ini │ └── SOAP_monitoring_dashbord_grafana.json ├── tests/ # Tests SoapUI │ └── TestSOAPClient-soapui-project.xml ├── docs/ # Documentation │ ├── rapport.pdf │ └── procedure.docx ├── clientdb.sql # Base PostgreSQL ├── pom.xml # Projet Maven └── README.md # Ce fichier
 je conseille de prendre connaissance du rapport fournis dans le github il y a des captures d'ecran qui pourront vous aider a bien comprendre 
 
 ## ⚙️ Installation et configuration
